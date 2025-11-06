@@ -2,7 +2,7 @@ import {UserStats} from './config';
 
 export const defaultStats: UserStats = {
 	name: 'Ashraf Morningstar',
-	username: 'Ashraf-Morningstar',
+	username: 'AshrafMorningstar',
 	repoViews: 858,
 	linesOfCodeChanged: 20797776,
 	totalCommits: 2769,
